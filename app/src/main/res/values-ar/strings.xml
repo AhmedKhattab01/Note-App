@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ملحوظة</string>
+    <string name="add_category">اضافة فئة</string>
+    <string name="edit_category">تعديل فئة</string>
+    <string name="category">فئة</string>
+    <string name="categorize_to_organize">"تصنيف لتنظيم "</string>
+    <string name="title">عنوان</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">الغاء</string>
+    <string name="thoughts">افكار</string>
+    <string name="as_you_think_so_shall_you_become">كما تعتقد ، يجب أن تصبح</string>
+    <string name="text">نص</string>
+    <string name="delete">خذف</string>
+    <string name="favourite">مفضلة</string>
+    <string name="notes">ملحوظات</string>
+    <string name="note">ملحوظة</string>
+    <string name="remove_account">حذف الحساب</string>
+    <string name="note_it">دونها</string>
+    <string name="stay_centered">ابقَ متمركزًا</string>
+    <string name="name">اسم</string>
+    <string name="email">بريد الكتروني</string>
+    <string name="number">رقم</string>
+    <string name="register">تسجيل</string>
+    <string name="home">الرئيسية</string>
+    <string name="profile">الصفحة الشخصية</string>
+    <string name="edit">تعديل</string>
+    <string name="edit_profile">تعديل الحساب</string>
+    <string name="select_category">اختار فئة</string>
+    <string name="account_deletion">حذف الحساب</string>
+    <string name="account_deletion_msg">هل متأكد انك تريد حذف الحساب ؟</string>
+    <string name="all_fields_required">جميع الحقول مطلوبة</string>
+    <string name="note_deletion">حذف الملحوظة</string>
+    <string name="note_deletion_msg">هل متأكد من انك تريد حذف الملحوظة</string>
+    <string name="category_deletion">حذف الفئة</string>
+    <string name="category_deletion_msg">حذف الفئة سيحذف كل الملحوظات الخاصة بها</string>
+
+</resources>
