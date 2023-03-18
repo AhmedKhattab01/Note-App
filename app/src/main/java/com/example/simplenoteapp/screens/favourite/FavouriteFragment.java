@@ -75,9 +75,9 @@ public class FavouriteFragment extends Fragment {
                     myViewModel.getAllNotesByFavourite().observe(getViewLifecycleOwner(), notes -> {
 
                         binding.tvCount.setText(notes.size() + " " + getString(R.string.note));
+                        adapter.submitList(notes);
 
                         if (!notes.isEmpty()) {
-                            adapter.submitList(notes);
                             binding.lottieAnimationView.setVisibility(View.GONE);
                         } else {
                             binding.lottieAnimationView.setVisibility(View.VISIBLE);
@@ -93,6 +93,7 @@ public class FavouriteFragment extends Fragment {
         });
 
         binding.rvNotes.setAdapter(adapter);
+
         // Inflate the layout for this fragment
         return binding.getRoot();
     }

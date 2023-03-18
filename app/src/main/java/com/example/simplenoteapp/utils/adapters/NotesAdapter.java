@@ -40,7 +40,7 @@ public class NotesAdapter extends ListAdapter<Note, NotesAdapter.ViewHolder> {
         holder.bind(getItem(position));
 
         holder.binding.imageButton.setOnClickListener(view -> {
-            onFavouriteClickListener.onFavouriteClicked(getItem(position));
+            onFavouriteClickListener.onFavouriteClicked(getItem(holder.getAdapterPosition()));
         });
 
         holder.binding.getRoot().setOnClickListener(view -> {
