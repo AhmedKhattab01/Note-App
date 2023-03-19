@@ -1,4 +1,4 @@
-package com.example.simplenoteapp;
+package com.example.simplenoteapp.screens.edit_category;
 
 import android.app.AlertDialog;
 import android.os.Bundle;
@@ -12,6 +12,8 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.navigation.Navigation;
 
+import com.example.simplenoteapp.CategoryEditFragmentArgs;
+import com.example.simplenoteapp.R;
 import com.example.simplenoteapp.databinding.FragmentCategoryEditBinding;
 import com.example.simplenoteapp.screens.NotesViewModel;
 
@@ -21,7 +23,7 @@ import dagger.hilt.android.AndroidEntryPoint;
 public class CategoryEditFragment extends Fragment {
     private FragmentCategoryEditBinding binding;
 
-    CategoryEditFragmentArgs args;
+    com.example.simplenoteapp.CategoryEditFragmentArgs args;
     private NotesViewModel myViewModel;
 
     @Override

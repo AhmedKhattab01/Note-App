@@ -137,7 +137,7 @@
         tools:layout="@layout/fragment_add_category" />
     <fragment
         android:id="@+id/categoryEditFragment"
-        android:name="com.example.simplenoteapp.CategoryEditFragment"
+        android:name="com.example.simplenoteapp.screens.edit_category.CategoryEditFragment"
         android:label="@string/edit_category"
         tools:layout="@layout/fragment_category_edit">
         <argument
