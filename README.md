@@ -1,14 +1,12 @@
 # Easy Memo Note App
 
-![App Logo](app_logo.png)
-
 Easy Memo Note App is an Android application developed in Kotlin that allows users to create and manage their personal memos and notes conveniently. The app provides a user-friendly interface and various features to enhance the note-taking experience.
 
 ## Technologies Used
 
 The Easy Memo Note App utilizes the following technologies and libraries:
 
-- **Kotlin**: The primary programming language used for developing the app, known for its conciseness and interoperability with Java.
+- **Java**: The primary programming language used for developing the app.
 - **Navigation Component**: This library helps with implementing navigation and managing fragment transactions within the app.
 - **Dependency Injection with Hilt**: Hilt is a dependency injection library for Android apps that simplifies the process of managing dependencies and promotes a modular and testable architecture.
 - **MVVM**: The app architecture follows the Model-View-ViewModel pattern, which separates the user interface (View) from the data and business logic (Model) using ViewModels.
@@ -20,10 +18,13 @@ The Easy Memo Note App utilizes the following technologies and libraries:
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](/mocks/mock-1.png)
 *Caption: Add new memo screen.*
 
-![Screenshot 2](screenshot2.png)
+![Screenshot 2](/mocks/mock-2.png)
+*Caption: Memo list screen.*
+
+![Screenshot 3](/mocks/mock-3.png)
 *Caption: Memo list screen.*
 
 ## Installation
