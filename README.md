@@ -30,19 +30,4 @@ The Easy Memo Note App utilizes the following technologies and libraries:
 
 The Easy Memo Note App is available for download on the [Google Play Store](https://play.google.com/store/apps/details?id=com.example.easymemonoteapp). Simply follow the link and install it on your Android device to start using it.
 
-## How to Use
 
-1. Upon launching the app, you will be greeted with the memo list screen, displaying all your existing memos.
-2. To create a new memo, tap on the "Add Memo" button and enter the desired text in the provided input field.
-3. Once you have entered your memo, tap on the "Save" button to save it. The memo will be added to the list.
-4. To view or edit a memo, simply tap on it in the list. This will open the memo details screen, where you can make changes or delete the memo.
-5. To delete a memo, tap on the trash icon in the memo details screen, confirm the deletion, and the memo will be removed from the list.
-6. You can also modify the app's settings by accessing the options menu, which can be accessed by tapping on the three-dot icon in the top right corner of the memo list screen.
-
-## Feedback and Contributions
-
-If you encounter any issues while using the Easy Memo Note App or have any suggestions for improvements, please feel free to open an issue on the [GitHub repository](https://github.com/your-username/easy-memo-note-app). Contributions are also welcome, and pull requests will be reviewed and considered.
-
-## License
-
-The Easy Memo Note App is released under the [MIT License](LICENSE).
