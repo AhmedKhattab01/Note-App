@@ -19,9 +19,9 @@ The Easy Memo Note App utilizes the following technologies and libraries:
 ## Screenshots
 
 <p align="center">
-  <img src="mock-1.png" alt="Screenshot 1" width="300"/>
-  <img src="mock-2.png" alt="Screenshot 2" width="300"/>
-  <img src="mock-3.png" alt="Screenshot 3" width="300"/>
+  <img src="/mocks/mock-1.png" alt="Screenshot 1" width="300"/>
+  <img src="/mocks/mock-2.png" alt="Screenshot 2" width="300"/>
+  <img src="/mocks/mock-3.png" alt="Screenshot 3" width="300"/>
 </p>
 
 ## Installation
